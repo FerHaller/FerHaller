@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerHaller
-- 👀 I’m interested in User Experience Development
-- 🌱 I’m currently learning US/UI
+- 👀 Nowadays, I only take projects that I love to do...
+- 🌱 currently learning front
 - 💞️ I’m looking to collaborate on Non fundable Proyects
 - 📫 How to reach me fernandodanielhaller@gmail.com
 
